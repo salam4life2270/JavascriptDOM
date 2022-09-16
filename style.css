@@ -1,0 +1,45 @@
+/*body background color*/
+body{
+    background: #eee;
+}
+/*styling the content*/
+.content{
+    width: 400px;
+    background: #fff;
+    padding: 20px;
+    padding-top: 0;
+    margin: auto;
+    max-height: 110px;
+    overflow: hidden; 
+}
+
+.all-content{
+    max-height: 500px;
+}
+
+
+/*making the image looks smaller*/
+.smaller-image {
+    width: 400px;
+    border-radius: 50px;
+    border-radius: 30%;
+  }
+
+  /* styling a blueviolet text color*/
+  .blue-text{
+    color: blueviolet; 
+  } 
+
+  /*here i styled learn-more*/
+  .learn-more{
+    background: #1594e5;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    width: 120px;
+    font-size: 24px;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+  }
